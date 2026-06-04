@@ -1,0 +1,4 @@
+IMK = b"MessageKey_42"
+SALT_SIZE = 16
+NONCE_SIZE = 12
+TAG_SIZE = 16
